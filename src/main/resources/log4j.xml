@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.care.root">
+	<logger name="www.class.com">
 		<level value="info" />
 	</logger>
 	
